@@ -54,9 +54,9 @@ const BLOG = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'cui2421011864@gmail.com',
   CONTACT_WEIBO: '',
-  CONTACT_TWITTER: '',
+  CONTACT_TWITTER: 'https://twitter.com/cuijianzhuang',
   CONTACT_GITHUB: 'https://github.com/cuijianzhuang',
-  CONTACT_TELEGRAM: '@cuiplus',
+  CONTACT_TELEGRAM: 'https://t.me/cuiplus',
 
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
