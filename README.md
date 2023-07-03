@@ -31,7 +31,7 @@
 |--|--|--|--|
 | <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://tangly1024.com/?theme=fukasawa) |
 
-## 我要如何开始？
+## 我要如何开始？?
 
 只需几分钟即可搭建您的个人站点：
 
